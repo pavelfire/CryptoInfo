@@ -1,4 +1,4 @@
-package com.vk.directop.cryptoinfo.ui.theme
+package com.vk.directop.cryptoinfo.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

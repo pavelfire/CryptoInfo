@@ -1,4 +1,4 @@
-package com.vk.directop.cryptoinfo.ui.theme
+package com.vk.directop.cryptoinfo.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
